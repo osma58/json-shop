@@ -1,0 +1,193 @@
+[
+   {
+      "titel": "Summerproof met Sonja",
+      "cover": "https://s.s-bol.com/imgbase0/imagebase3/large/FC/0/7/3/5/9200000110145370.jpg",
+      "auteur": ["Sonja Bakker"],
+      "uitgave": "mei 2019",
+      "paginas": 104,
+      "taal": "Nederlands",
+      "ean": "9789078211433",
+      "prijs" :"12,90",
+      "genre" : "aktie"
+   },
+   {
+      "titel": "Front-End Web Development a Complete Guide",
+      "cover": "https://s.s-bol.com/imgbase0/imagebase3/large/FC/7/3/1/7/9200000096507137.jpg",
+      "auteur": ["Gerardus Blokdyk"],
+      "uitgave": "juli 2018",
+      "ean": "9780655315254",
+      "paginas": 274,
+      "taal": "Engels",
+      "prijs" :"14.50",
+      "genre" : "horror"
+   },
+   {
+      "titel": "Delft design guide",
+      "cover": "https://s.s-bol.com/imgbase0/imagebase3/large/FC/8/6/6/6/9200000014636668.jpg",
+      "auteur": ["Yvo Zijlstra", "Jaap Daalhuizen", "Roos van der Schoor", "Annemiek van Boeijen"],
+      "uitgave": "september 2013",
+      "ean": "9789063693275",
+      "paginas": 176,
+      "taal": "Engels",
+      "prijs" :"16.50",
+      "genre" : "thirrel"
+   },
+   {
+      "titel": "Huis vol leugens",
+      "cover": "https://s.s-bol.com/imgbase0/imagebase3/large/FC/6/4/9/0/9200000107050946.jpg",
+      "auteur": ["Nicci French"],
+      "uitgave": "juli 2019",
+      "ean": "9789026343315",
+      "paginas": 400,
+      "taal": "Nederlands",
+      "prijs" :"12.50",
+      "genre" : "lifestyle"
+   },
+   {
+      "titel": "Front-End Web Development",
+      "cover": "https://s.s-bol.com/imgbase0/imagebase3/large/FC/4/4/1/7/9200000050597144.jpg",
+      "auteur": ["Chris Aquino", "Todd Gandee"],
+      "uitgave": "juni 2016",
+      "paginas": 300,
+      "taal": "Engels",
+      "ean": "9780134433943",
+      "prijs" :"16.50",
+      "genre" : "kookboek"
+   },
+   {
+      "titel": "Dog Man",
+      "cover": "https://s.s-bol.com/imgbase0/imagebase3/large/FC/6/7/3/5/9200000091585376.jpg",
+      "auteur": ["Dav Pilkey"],
+      "uitgave": "juni 2018",
+      "paginas": 231,
+      "taal": "Nederlands",
+      "ean": "9789492899019",
+      "prijs" :"13.00",
+      "genre" : "romantiek"
+   },
+   {
+      "titel": "Learning Bootstrap 4",
+      "cover": "https://s.s-bol.com/imgbase0/imagebase3/large/FC/6/0/4/9/9200000060229406.jpg",
+      "auteur": ["Matt Lambert"],
+      "uitgave": "januari 2016",
+      "paginas": 246,
+      "taal": "Engels",
+      "ean": "9781785881008",
+      "prijs" :"12.95",
+      "genre" : "horror"
+   },
+   {
+      "titel": "VEG",
+      "cover": "https://s.s-bol.com/imgbase0/imagebase3/large/FC/9/3/1/8/9200000107638139.jpg",
+      "auteur": ["Jamie Oliver"],
+      "uitgave": "augustus 2019",
+      "paginas": 312,
+      "taal": "Nederlands",
+      "ean": "9789021573397",
+      "prijs" :"11.50",
+      "genre" : "informatie"
+   },
+   {
+      "titel": "Zij die moet sterven",
+      "cover": "https://s.s-bol.com/imgbase0/imagebase3/large/FC/0/0/6/9/9200000107459600.jpg",
+      "auteur": ["David Lagercrantz"],
+      "uitgave": "augustus 2019",
+      "paginas": 304,
+      "taal": "Nederlands",
+      "ean": "9789056725723",
+      "prijs" :"16.50",
+      "genre" : "aktie"
+   },
+   {
+      "titel": "De Geschiedenis van Nederland in 100 oude kaarten",
+      "cover": "https://s.s-bol.com/imgbase0/imagebase3/large/FC/1/5/3/8/9200000103398351.jpg",
+      "auteur": ["Marieke van Delft"],
+      "uitgave": "juni 2019",
+      "paginas": 400,
+      "taal": "Nederlands",
+      "ean": "9789401459075",
+      "prijs" :"19.00",
+      "genre" : "lifestyle"
+   },
+   {
+      "titel": "Wees onzichtbaar",
+      "cover": "https://s.s-bol.com/imgbase0/imagebase3/large/FC/3/4/1/2/9200000071452143.jpg",
+      "auteur": ["Murat Isik"],
+      "uitgave": "mei 2019",
+      "paginas": 597,
+      "taal": "Nederlands",
+      "ean": "9789041422903",
+      "prijs" :"19.80",
+      "genre" : "zorg"
+   },
+   {
+      "titel": "Houden van dingen die niet perfect zijn",
+      "cover": "https://s.s-bol.com/imgbase0/imagebase3/large/FC/1/2/7/0/9200000095410721.jpg",
+      "auteur": ["Haemin Sunim"],
+      "uitgave": "januari 2019",
+      "paginas": 272,
+      "taal": "Nederlands",
+      "ean": "9789022583722",
+      "prijs" :"12.50",
+      "genre" : "thillerel"
+   },
+   {
+      "titel": "De Zeven Zussen",
+      "cover": "https://s.s-bol.com/imgbase0/imagebase3/large/FC/0/5/3/4/9200000089454350.jpg",
+      "auteur": ["Lucinda Riley"],
+      "uitgave": "juni 2018",
+      "paginas": 592,
+      "taal": "Nederlands",
+      "ean": "9789401609371",
+      "prijs" :"11.00",
+      "genre" : "fantasie"
+   },
+   {
+      "titel": "Hands-On Full-Stack Web Development with ASP.NET Core",
+      "cover": "https://s.s-bol.com/imgbase0/imagebase3/large/FC/9/1/9/1/9200000101541919.jpg",
+      "auteur": ["Tamir Dresher", "Amir Zuker", "Shay Friedman"],
+      "uitgave": "oktober 2018",
+      "paginas": 478,
+      "taal": "Engels",
+      "ean": "9781788622882",
+      "prijs" :"16.00",
+      "genre" : "aktie"
+
+   },
+   {
+       "titel": "Think and Grow Rich",
+       "cover": "https://s.s-bol.com/imgbase0/imagebase3/large/FC/8/2/3/0/1001004002580328.jpg",
+       "auteur": ["Napoleon Hill"],
+       "uitgave": "spetember 2005",
+       "paginas": 320,
+       "taal": "Engels",
+       "ean": "9781585424337 ",
+       "prijs" :"12.99",
+       "genre" : "ondermnemers en bijdrijven"
+
+    },
+    {
+       "titel": "The Obstacle is the Way",
+       "cover": "https://s.s-bol.com/imgbase0/imagebase3/large/FC/8/2/8/4/9200000036454828.jpg",
+       "auteur": ["Ryon Holiday"],
+       "uitgave": "mei 2015 ",
+       "paginas": 224,
+       "taal": "Engels",
+       "ean": "9781781251492 ",
+       "prijs" :"11.99",
+       "genre" : "leiderschap en motivatie"
+
+    },
+    {
+       "titel": "Rich dad poor dad",
+       "cover": "https://s.s-bol.com/imgbase0/imagebase3/large/FC/2/9/6/3/9200000070113692.jpg",
+       "auteur": ["Robert T. Kiyosaki"],
+       "uitgave": "april 2017 ",
+       "paginas": 336,
+       "taal": "Engels",
+       "ean": "9781612680194  ",
+       "prijs" :"7.83",
+       "genre" : "Bedrijfsleven & Managemenet"
+
+    }
+]

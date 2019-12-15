@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="nl">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Sorteer Boeken</title>
+    <meta name="author">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <header class="header">
+        <a href="bestelpagina.html">
+            <div class="winkelwagen"><span class="winkelwagen__aantal"></span></div>
+        </a>
+        <h1>Een selectie van boeken</h1>
+    </header>
+    <select id="kenmerk">
+        <option value="titelUpper">Titel</option>
+        <option value="sortAuteur">Auteur(s)</option>
+        <option value="JSDate">Datum uitgave</option>
+        <option value="paginas">Aantal bladzijden</option>
+        <option value="taal">Taal</option>
+        <option value="prijs">Prijs</option>
+    </select>
+
+    <label>
+        <input type="radio" checked name="oplopend" value="1">Oplopend
+    </label>
+    <label>
+        <input type="radio" name="oplopend" value="-1">Aflopend
+    </label>
+
+    <div id="boeken"></div>
+    <script src="sortBooks.js"></script>
+</body>
+
+</html>
